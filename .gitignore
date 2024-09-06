@@ -3,9 +3,7 @@ db.sqlite3
 
 
 # Folders
-env/
-snnwebapp/migrations
-scholars/__pycache__
-snnwebapp/__pycache__
+backend/env/
+backend/__pycache__
 
 # Extentions
