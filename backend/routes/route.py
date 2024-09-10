@@ -34,7 +34,7 @@ router = APIRouter()
 
 
 # Get Users
-@router.get("/userse/")
+@router.get("/users/")
 async def get_users():
     users = []
     async for user in db["users"].find():
