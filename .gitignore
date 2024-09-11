@@ -1,6 +1,6 @@
 # Files
 db.sqlite3
-
+# backend/config/.env
 
 # Folders
 backend/env/
@@ -10,4 +10,5 @@ backend/routes/__pycache__
 backend/schema/__pycache__
 backend/config/__pycache__
 backend/app/__pycache__
+
 # Extentions
